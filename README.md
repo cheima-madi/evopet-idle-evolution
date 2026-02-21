@@ -3,7 +3,9 @@
 </div>
 
 
-## Run Locally
+## EvoPet – Idle Evolution
+
+[Live Demo](https://cheima-madi.github.io/evopet-idle-evolution/)
 
 **Prerequisites:**  Node.js
 
